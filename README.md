@@ -1,1 +1,2 @@
 # Non-Invasive-Myocardial-Infarction-Detector
+The project aids bedridden patients by detecting potential heart attacks, capturing pain expressions, and confirming emergencies with a heart rate sensor. An application alerts hospitals and family members for timely assistance, enhancing patient safety by providing immediate medical attention and mitigating risks associated with sudden health complications.
